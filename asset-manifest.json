@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/nathan-algourdin/static/css/main.4c32e31c.css",
+    "main.js": "/nathan-algourdin/static/js/main.2b21165c.js",
+    "static/js/787.fb771931.chunk.js": "/nathan-algourdin/static/js/787.fb771931.chunk.js",
+    "static/media/time-line-experience2.jpg": "/nathan-algourdin/static/media/time-line-experience2.6400369b2143e0bfd43e.jpg",
+    "static/media/background-image.jpg": "/nathan-algourdin/static/media/background-image.98ae6c5c6803019acf3b.jpg",
+    "static/media/time-line-experience1.jpg": "/nathan-algourdin/static/media/time-line-experience1.957f33023d384ae8e34b.jpg",
+    "static/media/time-line-experience3.jpg": "/nathan-algourdin/static/media/time-line-experience3.9a954a72d28a62a799a0.jpg",
+    "static/media/project-img-mario.png": "/nathan-algourdin/static/media/project-img-mario.baa9654b36cdc6f13d7a.png",
+    "static/media/project-img-network.png": "/nathan-algourdin/static/media/project-img-network.cc6705d1fd9b335da404.png",
+    "static/media/project-img-carpooling.jpg": "/nathan-algourdin/static/media/project-img-carpooling.b5bfc6894992f2656315.jpg",
+    "static/media/time-line-bac.jpg": "/nathan-algourdin/static/media/time-line-bac.17556264af12f241ea5a.jpg",
+    "static/media/time-line-isen.jpg": "/nathan-algourdin/static/media/time-line-isen.48baf4b3e3791c7cb5c1.jpg",
+    "static/media/project-img-naval-battle.png": "/nathan-algourdin/static/media/project-img-naval-battle.5328c0369e08f61eb0aa.png",
+    "static/media/project-img-oxymetrie.jpg": "/nathan-algourdin/static/media/project-img-oxymetrie.a09cea00a11b20dc945f.jpg",
+    "static/media/logo.svg": "/nathan-algourdin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nathan-algourdin/index.html",
+    "static/media/in-logo.svg": "/nathan-algourdin/static/media/in-logo.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.4c32e31c.css.map": "/nathan-algourdin/static/css/main.4c32e31c.css.map",
+    "main.2b21165c.js.map": "/nathan-algourdin/static/js/main.2b21165c.js.map",
+    "787.fb771931.chunk.js.map": "/nathan-algourdin/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c32e31c.css",
+    "static/js/main.2b21165c.js"
+  ]
+}
