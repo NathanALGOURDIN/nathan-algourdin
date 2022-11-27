@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nathan-algourdin/static/css/main.4c32e31c.css",
-    "main.js": "/nathan-algourdin/static/js/main.36ce68a0.js",
+    "main.js": "/nathan-algourdin/static/js/main.72ea1450.js",
     "static/js/787.fb771931.chunk.js": "/nathan-algourdin/static/js/787.fb771931.chunk.js",
     "static/media/time-line-experience2.jpg": "/nathan-algourdin/static/media/time-line-experience2.6400369b2143e0bfd43e.jpg",
     "static/media/background-image.jpg": "/nathan-algourdin/static/media/background-image.98ae6c5c6803019acf3b.jpg",
@@ -18,11 +18,11 @@
     "index.html": "/nathan-algourdin/index.html",
     "static/media/in-logo.svg": "/nathan-algourdin/static/media/in-logo.721d5414c26365f117e71d46b6641cb2.svg",
     "main.4c32e31c.css.map": "/nathan-algourdin/static/css/main.4c32e31c.css.map",
-    "main.36ce68a0.js.map": "/nathan-algourdin/static/js/main.36ce68a0.js.map",
+    "main.72ea1450.js.map": "/nathan-algourdin/static/js/main.72ea1450.js.map",
     "787.fb771931.chunk.js.map": "/nathan-algourdin/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c32e31c.css",
-    "static/js/main.36ce68a0.js"
+    "static/js/main.72ea1450.js"
   ]
 }
